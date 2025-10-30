@@ -1,0 +1,50 @@
+body{
+    background-image: url(https://t4.ftcdn.net/jpg/01/98/49/61/360_F_198496190_TRgMtAnmx20H51DgZdCX5zgphwXynuQ7.jpg);
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+}
+
+p, h2{
+  margin: 20px;
+}
+
+h1{
+  text-align: center;
+}
+
+nav ul{
+  list-style-type: none;
+  background-color: gray;
+  padding: 0px;
+  margin:0px;
+  overflow: hidden;
+}
+
+nav a{
+  color: white;
+  text-decoration: none;
+  padding: 15px;
+  display: block;
+  text-align: center;
+}
+
+nav a:hover{
+background-color: rgb(142, 141, 141);
+}
+
+nav li{
+  float: left;
+}
+
+img{
+  margin: 20px;
+}
+
+form{
+  margin: 20px;
+}
+
+.tjandra{
+  text-align: center;
+}
